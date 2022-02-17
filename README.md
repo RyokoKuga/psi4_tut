@@ -1,6 +1,6 @@
 # Psi4ではじめる量子化学計算  
 
-## Psi4テスト用ノートブック  
+## Psi4テスト用ノートブック(Binder)  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RyokoKuga/psi4_tut/main?labpath=test_psi4.ipynb)  
 
 ## Psi4ではじめる量子化学計算 ①：導入編  
