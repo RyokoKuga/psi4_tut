@@ -1,4 +1,4 @@
-name: p4env37
+name: psi4env
 channels:
   - psi4/label/dev
   - defaults
