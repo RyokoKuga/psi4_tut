@@ -1,8 +1,4 @@
-name: p4env37
-channels:
-  - psi4/label/dev
-  - defaults
+name: psi4env
 dependencies:
   - python=3.7
   - psi4
-  - dftd3
