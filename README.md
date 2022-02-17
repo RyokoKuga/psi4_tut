@@ -7,11 +7,9 @@
 [http://pc-chem-basics.blog.jp/archives/28148054.html](http://pc-chem-basics.blog.jp/archives/28148054.html)  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RyokoKuga/psi4_tut/blob/main/Psi4_tut_1.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RyokoKuga/psi4_tut/main?labpath=Psi4_tut_1.ipynb)  
 
 ## Psi4ではじめる量子化学計算 ②：構造最適化編  
 [http://pc-chem-basics.blog.jp/archives/28197361.html](http://pc-chem-basics.blog.jp/archives/28197361.html)  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RyokoKuga/psi4_tut/blob/main/Psi4_tut_2.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RyokoKuga/psi4_tut/main?labpath=Psi4_tut_2.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RyokoKuga/psi4_tut/blob/main/Psi4_tut_2.ipynb)  
 **Download：** [H2O.out](https://raw.githubusercontent.com/RyokoKuga/psi4_tut/main/Output/H2O.out), [H2O.fchk](https://raw.githubusercontent.com/RyokoKuga/psi4_tut/main/Output/H2O.fchk)  
